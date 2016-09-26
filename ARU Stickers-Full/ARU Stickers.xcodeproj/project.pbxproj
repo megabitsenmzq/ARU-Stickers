@@ -317,6 +317,7 @@
 				C02DDF791D8E9CB200893A6A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C02DDF7B1D8E9CB200893A6A /* Build configuration list for PBXNativeTarget "ARU Stickers" */ = {
 			isa = XCConfigurationList;
@@ -325,6 +326,7 @@
 				C02DDF7D1D8E9CB200893A6A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
