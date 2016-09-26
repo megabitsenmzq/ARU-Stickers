@@ -17,7 +17,9 @@ This sticker app is authorized by SIC/CYAN. Do not upload it to Appstore by your
 ![](http://ww3.sinaimg.cn/large/801b780ajw1f87bk35ee9j20qi0d076z.jpg)
 
 Select your developer profile as "Team".
+
 For "ARU Stickers",set "Bundle Identifier" to "com.YourName.ARUStickers".
+
 For "StickerPackExtension",set "Bundle Identifier" to "com.YourName.ARUStickers.StickerPackExtension"
 
 3.Run it on your device.
