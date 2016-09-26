@@ -8,13 +8,15 @@ ARU is a sticker crafted by [SiC/CYAN](http://weibo.com/silenthiker).
 This sticker app is authorized by SIC/CYAN. Do not upload it to Appstore by your self.
 
 ## Installation:
+0.Download Xcode8 (Doge)
+
 1.Login with your AppleID.
 
-![](http://ww1.sinaimg.cn/large/801b780ajw1f87bc0d6huj21bw10sdln.jpg)
+![](http://ww3.sinaimg.cn/large/801b780ajw1f87c75j63ij20m80h2abi.jpg)
 
 2.Set "Bundle Identifier" and "Team" for each targets.
 
-![](http://ww3.sinaimg.cn/large/801b780ajw1f87bk35ee9j20qi0d076z.jpg)
+![](http://ww4.sinaimg.cn/large/801b780ajw1f87c7fsysdj20dw06tq3u.jpg)
 
 Select your developer profile as "Team".
 
@@ -24,12 +26,12 @@ For "StickerPackExtension",set "Bundle Identifier" to "com.YourName.ARUStickers.
 
 3.Run it on your device.
 
-![](http://ww4.sinaimg.cn/large/801b780ajw1f87bqmmretj20ji066dh3.jpg)
+![](http://ww3.sinaimg.cn/large/801b780ajw1f87c7m7ga1j20dw04egma.jpg)
 
 Select a device to run the app.
 You will see this error：
 
-![](http://ww1.sinaimg.cn/large/801b780ajw1f87byv3v9rj20w20gkdgx.jpg)
+![](http://ww2.sinaimg.cn/large/801b780ajw1f87c7s182pj20dw053weh.jpg)
 
 Allow your developer profile at "Device Management" in "Settings".
 
