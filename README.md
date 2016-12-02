@@ -7,6 +7,8 @@ ARU is a sticker crafted by [SiC/CYAN](http://weibo.com/silenthiker).
 
 This sticker app is authorized by SIC/CYAN. Do not upload it to Appstore by your self.
 
+Current version based on ARU6.
+
 ## Installation:
 0.Download Xcode8 (Doge)
 
