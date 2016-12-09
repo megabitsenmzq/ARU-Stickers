@@ -9,6 +9,8 @@ This sticker app is authorized by SIC/CYAN. Do not upload it to Appstore by your
 
 Current version based on ARU6.
 
+App Store:[ARU Stickers](https://itunes.apple.com/us/app/aru-stickers/id1155887666)
+
 ## Installation:
 0.Download Xcode8 (Doge)
 
