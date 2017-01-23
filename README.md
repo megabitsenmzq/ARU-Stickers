@@ -7,7 +7,7 @@ ARU is a sticker crafted by [SiC/CYAN](http://weibo.com/silenthiker).
 
 This sticker app is authorized by SIC/CYAN. Do not upload it to Appstore by your self.
 
-Current version based on ARU6.
+Current version based on ARU 6.
 
 App Store:[ARU Stickers](https://itunes.apple.com/us/app/aru-stickers/id1155887666)
 
@@ -40,5 +40,3 @@ You will see this error：
 Allow your developer profile at "Device Management" in "Settings".
 
 4.Enjoy
-
-
