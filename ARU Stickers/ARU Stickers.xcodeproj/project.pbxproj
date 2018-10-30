@@ -7,9 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C02DDF6F1D8E9CB200893A6A /* StickerPackExtension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = C02DDF6E1D8E9CB200893A6A /* StickerPackExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		C02DDF6F1D8E9CB200893A6A /* ARU-Full.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = C02DDF6E1D8E9CB200893A6A /* ARU-Full.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		C02DDF731D8E9CB200893A6A /* Stickers.xcstickers in Resources */ = {isa = PBXBuildFile; fileRef = C02DDF721D8E9CB200893A6A /* Stickers.xcstickers */; };
 		C02DDF741D8E9CB200893A6A /* Stickers.xcstickers in Resources */ = {isa = PBXBuildFile; fileRef = C02DDF721D8E9CB200893A6A /* Stickers.xcstickers */; };
+		C0E94D0B21847F9F00EBE22D /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = C0E94D0A21847F9F00EBE22D /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -29,7 +30,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 13;
 			files = (
-				C02DDF6F1D8E9CB200893A6A /* StickerPackExtension.appex in Embed App Extensions */,
+				C02DDF6F1D8E9CB200893A6A /* ARU-Full.appex in Embed App Extensions */,
 			);
 			name = "Embed App Extensions";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -38,8 +39,9 @@
 
 /* Begin PBXFileReference section */
 		C02DDF6A1D8E9CB200893A6A /* ARU Stickers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ARU Stickers.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		C02DDF6E1D8E9CB200893A6A /* StickerPackExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = StickerPackExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		C02DDF6E1D8E9CB200893A6A /* ARU-Full.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "ARU-Full.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C02DDF721D8E9CB200893A6A /* Stickers.xcstickers */ = {isa = PBXFileReference; lastKnownFileType = folder.stickers; name = Stickers.xcstickers; path = StickerPackExtension/Stickers.xcstickers; sourceTree = "<group>"; };
+		C0E94D0A21847F9F00EBE22D /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -48,6 +50,7 @@
 			children = (
 				C02DDF721D8E9CB200893A6A /* Stickers.xcstickers */,
 				C02DDF6B1D8E9CB200893A6A /* Products */,
+				C0E94D0A21847F9F00EBE22D /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -55,7 +58,7 @@
 			isa = PBXGroup;
 			children = (
 				C02DDF6A1D8E9CB200893A6A /* ARU Stickers.app */,
-				C02DDF6E1D8E9CB200893A6A /* StickerPackExtension.appex */,
+				C02DDF6E1D8E9CB200893A6A /* ARU-Full.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -80,9 +83,9 @@
 			productReference = C02DDF6A1D8E9CB200893A6A /* ARU Stickers.app */;
 			productType = "com.apple.product-type.application.messages";
 		};
-		C02DDF6D1D8E9CB200893A6A /* StickerPackExtension */ = {
+		C02DDF6D1D8E9CB200893A6A /* ARU-Full */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C02DDF771D8E9CB200893A6A /* Build configuration list for PBXNativeTarget "StickerPackExtension" */;
+			buildConfigurationList = C02DDF771D8E9CB200893A6A /* Build configuration list for PBXNativeTarget "ARU-Full" */;
 			buildPhases = (
 				C02DDF6C1D8E9CB200893A6A /* Resources */,
 			);
@@ -90,9 +93,9 @@
 			);
 			dependencies = (
 			);
-			name = StickerPackExtension;
+			name = "ARU-Full";
 			productName = StickerPackExtension;
-			productReference = C02DDF6E1D8E9CB200893A6A /* StickerPackExtension.appex */;
+			productReference = C02DDF6E1D8E9CB200893A6A /* ARU-Full.appex */;
 			productType = "com.apple.product-type.app-extension.messages-sticker-pack";
 		};
 /* End PBXNativeTarget section */
@@ -129,7 +132,7 @@
 			projectRoot = "";
 			targets = (
 				C02DDF691D8E9CB200893A6A /* ARU Stickers */,
-				C02DDF6D1D8E9CB200893A6A /* StickerPackExtension */,
+				C02DDF6D1D8E9CB200893A6A /* ARU-Full */,
 			);
 		};
 /* End PBXProject section */
@@ -139,6 +142,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C0E94D0B21847F9F00EBE22D /* README.md in Resources */,
 				C02DDF741D8E9CB200893A6A /* Stickers.xcstickers in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -156,7 +160,7 @@
 /* Begin PBXTargetDependency section */
 		C02DDF711D8E9CB200893A6A /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = C02DDF6D1D8E9CB200893A6A /* StickerPackExtension */;
+			target = C02DDF6D1D8E9CB200893A6A /* ARU-Full */;
 			targetProxy = C02DDF701D8E9CB200893A6A /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -328,7 +332,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C02DDF771D8E9CB200893A6A /* Build configuration list for PBXNativeTarget "StickerPackExtension" */ = {
+		C02DDF771D8E9CB200893A6A /* Build configuration list for PBXNativeTarget "ARU-Full" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C02DDF781D8E9CB200893A6A /* Debug */,

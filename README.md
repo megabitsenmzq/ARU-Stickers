@@ -1,42 +1,34 @@
 # ARU Stickers for iMessage
 ![](http://ww3.sinaimg.cn/large/801b780ajw1f7y2edry6tj20sg0sg3zo.jpg)
 
-This is a full version of ARU-Stickers.You can install it with Xcode 8.
-
-ARU is a sticker crafted by [SiC/CYAN](http://weibo.com/silenthiker).
-
-This sticker app is authorized by SIC/CYAN. Do not upload it to Appstore by your self.
+ARU is a sticker pack crafted by [SiC/CYAN](http://weibo.com/silenthiker).
 
 Current version based on ARU 6.
 
-App Store:[ARU Stickers](https://itunes.apple.com/us/app/aru-stickers/id1155887666)
+App Store: [ARU Stickers](https://itunes.apple.com/us/app/aru-stickers/id1155887666)
+
+This sticker app is authorized by SIC/CYAN. Do not upload it to Appstore by your self. 
+
+You can use these sticker images for non-commercial use. Please make sure that author's name (SIC/CYAN) will be showed clearly in your work. (CC-BY-NC)
 
 ## Installation:
-0.Download Xcode8 (Doge)
+
+0.Download Xcode.
 
 1.Login with your AppleID.
 
-![](http://ww3.sinaimg.cn/large/801b780ajw1f87c75j63ij20m80h2abi.jpg)
-
 2.Set "Bundle Identifier" and "Team" for each targets.
 
-![](http://ww4.sinaimg.cn/large/801b780ajw1f87c7fsysdj20dw06tq3u.jpg)
+- Select your developer profile as "Team".
 
-Select your developer profile as "Team".
+- For "ARU Stickers", set "Bundle Identifier" to "com.YourName.ARUStickers".
 
-For "ARU Stickers",set "Bundle Identifier" to "com.YourName.ARUStickers".
-
-For "StickerPackExtension",set "Bundle Identifier" to "com.YourName.ARUStickers.StickerPackExtension"
+- For "StickerPackExtension", set "Bundle Identifier" to "com.YourName.ARUStickers.StickerPackExtension"
 
 3.Run it on your device.
 
-![](http://ww3.sinaimg.cn/large/801b780ajw1f87c7m7ga1j20dw04egma.jpg)
+4.If you see "unable to attach" error, try to activate your developer profile at "Settings > Device Management" on iOS.
 
-Select a device to run the app.
-You will see this error：
+5.Enjoy
 
-![](http://ww2.sinaimg.cn/large/801b780ajw1f87c7s182pj20dw053weh.jpg)
 
-Allow your developer profile at "Device Management" in "Settings".
-
-4.Enjoy

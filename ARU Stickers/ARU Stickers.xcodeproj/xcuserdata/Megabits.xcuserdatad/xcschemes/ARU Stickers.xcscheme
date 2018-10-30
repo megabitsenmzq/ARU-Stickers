@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0810"
+   LastUpgradeVersion = "0940"
    wasCreatedForAppExtension = "YES"
    version = "2.0">
    <BuildAction
@@ -16,8 +16,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "C02DDF6D1D8E9CB200893A6A"
-               BuildableName = "StickerPackExtension.appex"
-               BlueprintName = "StickerPackExtension"
+               BuildableName = "ARU-Full.appex"
+               BlueprintName = "ARU-Full"
                ReferencedContainer = "container:ARU Stickers.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -48,8 +48,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C02DDF6D1D8E9CB200893A6A"
-            BuildableName = "StickerPackExtension.appex"
-            BlueprintName = "StickerPackExtension"
+            BuildableName = "ARU-Full.appex"
+            BlueprintName = "ARU-Full"
             ReferencedContainer = "container:ARU Stickers.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
